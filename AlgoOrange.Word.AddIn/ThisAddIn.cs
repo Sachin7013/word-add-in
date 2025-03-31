@@ -17,7 +17,7 @@ namespace AlgoOrange.Word.AddIn
         private void ThisAddIn_Startup(object sender, System.EventArgs e)
         {
             algochatControl = new AlogChatControl(this);
-            myCustomTaskPane = this.CustomTaskPanes.Add(algochatControl, "My User Control");
+            myCustomTaskPane = this.CustomTaskPanes.Add(algochatControl, "AlgoOrange AI");
             myCustomTaskPane.Visible = true;
         }
         private void ThisAddIn_Shutdown(object sender, System.EventArgs e)

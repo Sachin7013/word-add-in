@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{4CEDE031-8440-46BA-8CEF-6382E1AC13B2}|AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn.csproj|solutionrelative:algoorange.word.addin\\alogchatcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4CEDE031-8440-46BA-8CEF-6382E1AC13B2}|AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn.csproj|C:\\Users\\Manoj\\OneDrive\\Desktop\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\algoorange.word.addin\\alogchatcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDE031-8440-46BA-8CEF-6382E1AC13B2}|AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn.csproj|solutionrelative:algoorange.word.addin\\alogchatcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CEDE031-8440-46BA-8CEF-6382E1AC13B2}|AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn.csproj|C:\\Users\\Manoj\\OneDrive\\Desktop\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\algoorange.word.addin\\alogchatcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CEDE031-8440-46BA-8CEF-6382E1AC13B2}|AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn.csproj|solutionrelative:algoorange.word.addin\\alogchatcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDE031-8440-46BA-8CEF-6382E1AC13B2}|AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn.csproj|C:\\Users\\Manoj\\OneDrive\\Desktop\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\algoorange.word.addin\\alogchatcontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4CEDE031-8440-46BA-8CEF-6382E1AC13B2}|AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn.csproj|solutionrelative:algoorange.word.addin\\alogchatcontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDE031-8440-46BA-8CEF-6382E1AC13B2}|AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn.csproj|C:\\Users\\Manoj\\OneDrive\\Desktop\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\algoorange.word.addin\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDE031-8440-46BA-8CEF-6382E1AC13B2}|AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn.csproj|solutionrelative:algoorange.word.addin\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,15 +42,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AlogChatControl.cs",
               "DocumentMoniker": "C:\\Users\\Manoj\\OneDrive\\Desktop\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\AlogChatControl.cs",
               "RelativeDocumentMoniker": "AlgoOrange.Word.AddIn\\AlogChatControl.cs",
               "ToolTip": "C:\\Users\\Manoj\\OneDrive\\Desktop\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\AlogChatControl.cs",
               "RelativeToolTip": "AlgoOrange.Word.AddIn\\AlogChatControl.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAArwDcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T10:18:21.728Z",
+              "WhenOpened": "2025-03-31T10:39:55.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoundedButton.cs",
+              "DocumentMoniker": "C:\\Users\\Manoj\\OneDrive\\Desktop\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\RoundedButton.cs",
+              "RelativeDocumentMoniker": "AlgoOrange.Word.AddIn\\RoundedButton.cs",
+              "ToolTip": "C:\\Users\\Manoj\\OneDrive\\Desktop\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\RoundedButton.cs",
+              "RelativeToolTip": "AlgoOrange.Word.AddIn\\RoundedButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:33:01.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlogChatControl.resx",
+              "DocumentMoniker": "C:\\Users\\Manoj\\OneDrive\\Desktop\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\AlogChatControl.resx",
+              "RelativeDocumentMoniker": "AlgoOrange.Word.AddIn\\AlogChatControl.resx",
+              "ToolTip": "C:\\Users\\Manoj\\OneDrive\\Desktop\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\AlogChatControl.resx",
+              "RelativeToolTip": "AlgoOrange.Word.AddIn\\AlogChatControl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-31T07:47:45.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlogChatControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Manoj\\OneDrive\\Desktop\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\AlogChatControl.Designer.cs",
+              "RelativeDocumentMoniker": "AlgoOrange.Word.AddIn\\AlogChatControl.Designer.cs",
+              "ToolTip": "C:\\Users\\Manoj\\OneDrive\\Desktop\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\AlgoOrange.Word.AddIn\\AlogChatControl.Designer.cs",
+              "RelativeToolTip": "AlgoOrange.Word.AddIn\\AlogChatControl.Designer.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:29:26.928Z",
               "EditorCaption": ""
             },
             {
